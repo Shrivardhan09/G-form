@@ -1,0 +1,106 @@
+body {
+    margin: 10px 250px;
+    padding: 0;
+
+}
+
+.container {
+    border: 1px solid silver;
+    border-radius: 5px;
+    height: 76vh;
+    width: 50vw;
+    margin: 50px;
+
+}
+
+.g-logo {
+    height: 30px;
+    margin: 30px 0px 0px 20px;
+}
+
+.g-font {
+    font-family: "Google Sans", "Noto Sans Myanmar UI", arial, sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.m-p {
+    margin: 20px;
+    padding: 10px 0px;
+}
+
+.my-p {
+    padding: 20px 0px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0px;
+    border: 1px solid silver;
+    border-radius: 5px;
+    border: 1px solid silver;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    width: 326px;
+    height: 7vh;
+    padding: 0px 5px;
+
+}
+
+#username {
+    border: none;
+    width: 18vw;
+    height: 5vh;
+}
+
+.i-m-p {
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid silver;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+}
+
+.current-email a {
+    text-decoration: none;
+    border-radius: 5px;
+    color: #256fc9;
+    padding: 5px 0px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+
+}
+
+.current-email a:hover {
+    border: none;
+    background-color: #acc8ed;
+    border: 0px solid;
+    padding: 5px 5px;
+    color: #19467c;
+}
+
+.btn-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    width: 326px;
+}
+
+.btn-next {
+    border: none;
+    background-color: #256fc9;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    ;
+}
+
+.pic {
+    width: 244px;
+    height: 244px;
+    position: relative;
+    left: 410px;
+    bottom: 345px;
+}
